@@ -1,0 +1,3 @@
+https://en.wikipedia.org/w/api.php?action=query&format=json&titles=Python%20Programming&prop=extracts
+https://en.wikipedia.org/w/api.php?action=query&format=json&titles=Java&prop=extracts
+https://en.wikipedia.org/w/api.php?action=query&format=json&titles=Shell%20Script&prop=extracts
